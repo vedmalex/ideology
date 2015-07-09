@@ -1,6 +1,5 @@
 = Summary
 
-. link:readmemd.adoc[Introduction]
 . link:README.adoc[Introduction]
 . link:introduction.adoc[Введение]
 
